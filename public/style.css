@@ -1,0 +1,11 @@
+body {
+    background: #cfcfcf;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#app {
+    max-width: 690px;
+    margin: 2rem auto;
+    background: #efefef;
+    padding: 0.5rem 1rem;
+}
